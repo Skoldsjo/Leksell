@@ -1,6 +1,18 @@
 body {
     background: grey;
     text-align: center;
+}
+#header {
     
 }
 
+#navigation {
+    /* Hur får jag navigationbar att ligga bredvid varandra?*/
+	list-style: none;
+	line-height: 30px;
+    text-transform: uppercase;    
+}
+
+#facebook {
+   float: right;
+}
