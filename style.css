@@ -13,6 +13,10 @@ body {
     text-transform: uppercase;    
 }
 
+li {
+  display: inline-block;
+}
+
 #facebook {
    float: right;
 }
